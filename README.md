@@ -1,5 +1,10 @@
 # my-app
 
+## INTEGRANTE DE GRUPO UNICO
+```
+RICHARD GONI PATTI CRUZ
+```
+
 ## Project setup
 ```
 npm install
